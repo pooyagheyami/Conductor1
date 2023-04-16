@@ -1,0 +1,3 @@
+music = heyyar.mp3
+speed = 25
+patern = ['Lft','Rit','Up','Dn','Lft','Rit','Up','Dn']
